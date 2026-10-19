@@ -1,0 +1,5 @@
+[
+  {"question":"What is your return policy?","keywords":["refund","return","policy"],"answer":"Demo policy: Contact support within 30 days of delivery to request a return. Replace this sample with your actual policy."},
+  {"question":"How can I track my order?","keywords":["shipping","order","tracking","status"],"answer":"Demo guidance: Use the tracking link in your shipping confirmation email. This demo cannot access live order data."},
+  {"question":"How can I contact customer support?","keywords":["help","human","agent","contact"],"answer":"Please contact the support team using your business's official support channel."}
+]
