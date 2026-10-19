@@ -50,7 +50,7 @@ cd ai-customer-support-chatbot
 Run the chatbot:
 
 ```bash
-python -m src.main
+python -m src.main --question "What is your refund policy?"
 ```
 
 The sample knowledge base is available in `examples/faq.json`.
